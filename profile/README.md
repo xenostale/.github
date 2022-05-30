@@ -10,8 +10,8 @@ The "oh god these guys should've already finished five years ago" NosTale RE pro
 ## Xeno's Tale platform
 
 - [xenostaleJ](https://github.com/xenostale/xenostaleJ) - the server emulator
-- [core/caffeine](https://github.com/xenostale-client-native) - native libraries made specifically for the official Xeno's Tale instance
-- [launcher](https://github.com/xenostale-launcher) - launch utility for the official Xeno's Tale instance
+- [core/caffeine](https://github.com/xenostale/xenostale-client-native) - native libraries made specifically for the official Xeno's Tale instance
+- [launcher](https://github.com/xenostale/xenostale-launcher) - launch utility for the official Xeno's Tale instance
 - [soraya](https://github.com/xenostale/soraya) - runtime client modification toolkit
 - [teoman](https://github.com/xenostale/teoman) - client build tool (think of `make` for NosTale)
 - [marvin](https://github.com/xenostale/marvin) - game data dumper that connects to `devtale-core`
