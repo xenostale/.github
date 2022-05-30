@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./logo.png" height="150px">
+<img src="./profile/logo.png" height="150px">
 
 # Xeno's Tale
 
