@@ -20,7 +20,7 @@ The "oh god these guys should've already finished five years ago" NosTale RE pro
 
 ## DevTale platform
 
-- [core](https://github.com/xenostale/devtale-core) - headless packet utility
+- [core](https://github.com/imxeno/devtale-core) - headless packet utility
 - [node rpc](https://github.com/xenostale/devtale-rpc) - node library that connects to `devtale-core`
 - [c# rpc](https://github.com/xenostale/DevTaleRPC) - c# library that connects to `devtale-core`
 - [c# gui](https://github.com/xenostale/DevTaleGUI) - gui for `devtale-core` similar to the Elektrochemie's packetlogger
